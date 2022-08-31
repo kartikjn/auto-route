@@ -1,0 +1,19 @@
+{
+  "name": "auto-route",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git@github_RI.com:kartikjn/auto-route.git",
+  "keywords": [],
+  "author": "kartikjain-sudo <kartikjain42@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kartikjn/auto-route/issues"
+  },
+  "homepage": "https://github.com/kartikjn/auto-route#readme",
+  "dependencies": {
+  }
+}
