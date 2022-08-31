@@ -15,5 +15,7 @@
   },
   "homepage": "https://github.com/kartikjn/auto-route#readme",
   "dependencies": {
+    "ethereum-abi-types-generator": "^1.3.2",
+    "ethers": "^5.7.0"
   }
 }
